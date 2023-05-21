@@ -83,7 +83,8 @@ body {
 }
 
 .container {
- 
+    margin: 0 auto;
+    max-width: 360px;
     background-color:  hsl(0, 0%, 100%);
 
 }
