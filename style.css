@@ -77,4 +77,22 @@ select {
 /* End CSS Reset */
 
 
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+ 
+    background-color:  hsl(0, 0%, 100%);
+
+}
+
+h2 {
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+}
 
