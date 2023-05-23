@@ -5,12 +5,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+- [Built with](#built-with)
 
 ## Overview
 
@@ -24,6 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: https://xandr om3dax.github.io/qr-code-component-2/
 
 ## My process
+
+Trying to keep the code as simple as possible.
 
 ### Built with
 
