@@ -36,6 +36,7 @@ body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
+  
 }
 
 /* A elements that don't have a class get default styles */
@@ -58,42 +59,36 @@ select {
   font: inherit;
 }
 
-/* Remove all animations, transitions and smooth scroll for people that prefer not to see them */
-@media (prefers-reduced-motion: reduce) {
-  html:focus-within {
-   scroll-behavior: auto;
-  }
-  
-  *,
-  *::before,
-  *::after {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-    scroll-behavior: auto !important;
-  }
-}
-
 /* End CSS Reset */
 
 
 body {
     font-family: 'Outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    font-size: 0.9375rem
 }
 
 .container {
     margin: 0 auto;
-    max-width: 360px;
+    max-width: 325px;
     background-color:  hsl(0, 0%, 100%);
+    padding: 15px;
+    border-radius: 17px;
+    text-align: center;
+}
 
+img {
+  border-radius: 12px;
 }
 
 h2 {
     color: hsl(218, 44%, 22%);
+    margin: 20px;
 }
 
 p {
     color: hsl(220, 15%, 55%);
+    margin: 20px 20px 30px 20px;
 }
-
