@@ -16,12 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.png)
 
-## Live Preview: https://xandrom3dax.github.io/qr-code-component-2/
-
 ### Links
 
 - Solution URL: https://github.com/xAnDrOm3dAx/qr-code-component-2
-- Live Site URL: https://xandr om3dax.github.io/qr-code-component-2/
+- Live Site URL: https://xandrom3dax.github.io/qr-code-component-2/
 
 ## My process
 
