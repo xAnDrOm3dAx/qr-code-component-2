@@ -12,6 +12,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+### Live Preview: https://xandrom3dax.github.io/qr-code-component-2/
+
 ### Screenshot
 
 ![](./screenshot.png)
